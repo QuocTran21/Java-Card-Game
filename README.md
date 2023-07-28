@@ -2,8 +2,8 @@
 ## First Year University Assignment
 
 Simple card game in Java. Uses Java Swing for GUI.
-CardGame contains the code that runs the game. Deals to players, calulates scores, resets tables etc.
-CardGameGUI contains the code to draw and display the graphics and panels.
+The CardGame directory contains code that runs the game. Deals to players, calulates scores, resets tables etc.
+CardGameGUI contains the code to draw and display the graphics.
 
 ### Rules:
 - All players take a turn and make a bet.
