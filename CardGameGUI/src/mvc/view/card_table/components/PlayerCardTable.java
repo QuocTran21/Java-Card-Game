@@ -36,7 +36,7 @@ public class PlayerCardTable extends JPanel
 
 		try 
 		{
-			suits.add(ImageIO.read(new File(String.format("img/suits/%s.PNG", suit))));
+			suits.add(ImageIO.read(new File(String.format("CardGameGUI/suits/%s.PNG", suit))));
 		} 
 		catch (IOException e) {}
 		
