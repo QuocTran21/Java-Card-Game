@@ -1,4 +1,3 @@
-# Java-Card-Game
 ## First Year University Assignment
 
 Simple card game in Java. Uses Java Swing for GUI.
