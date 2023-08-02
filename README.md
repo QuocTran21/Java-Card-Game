@@ -1,4 +1,5 @@
 ## First Year University Assignment
+By Quoc Tran (s3827826)
 
 Simple card game in Java. Uses Java Swing for GUI.
 The CardGame directory contains code that runs the game. Deals to players, calulates scores, resets tables etc.
